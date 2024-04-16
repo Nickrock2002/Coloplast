@@ -1,0 +1,964 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:81ca01b7-0a84-4883-9648-14818f689095",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2024-04-12T11:09:10.988Z",
+    "tools": {
+      "components": [
+        {
+          "group": "@cyclonedx",
+          "name": "cdxgen",
+          "version": "10.3.5",
+          "purl": "pkg:npm/%40cyclonedx/cdxgen@10.3.5",
+          "type": "application",
+          "bom-ref": "pkg:npm/@cyclonedx/cdxgen@10.3.5",
+          "author": "OWASP Foundation",
+          "publisher": "OWASP Foundation"
+        }
+      ]
+    },
+    "authors": [
+      {
+        "name": "OWASP Foundation"
+      }
+    ],
+    "lifecycles": [
+      {
+        "phase": "build"
+      }
+    ],
+    "component": {
+      "group": "",
+      "name": "Online-Survey-System-master",
+      "version": "latest",
+      "type": "application",
+      "bom-ref": "pkg:nuget/Online-Survey-System-master@latest",
+      "purl": "pkg:nuget/Online-Survey-System-master@latest"
+    }
+  },
+  "components": [
+    {
+      "group": "",
+      "name": "matchmedia()-polyfill",
+      "version": "Test a CSS media type/query in JS. Authors & copyright (c) 2012: Scott Jehl, Paul Irish, Nicholas Zakas. Dual MIT/BSD license */",
+      "purl": "pkg:npm/matchmedia()-polyfill@Test%20a%20CSS%20media%20type%2Fquery%20in%20JS.%20Authors%20%26%20copyright%20(c)%202012:%20Scott%20Jehl%2C%20Paul%20Irish%2C%20Nicholas%20Zakas.%20Dual%20MIT%2FBSD%20license%20*%2F",
+      "type": "library",
+      "bom-ref": "pkg:npm/matchmedia()-polyfill@Test a CSS media type/query in JS. Authors & copyright (c) 2012: Scott Jehl, Paul Irish, Nicholas Zakas. Dual MIT/BSD license */",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 0.25,
+          "methods": [
+            {
+              "technique": "filename",
+              "confidence": 0.25,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Respond.1.2.0\\content\\Scripts\\respond.min.js"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Respond.1.2.0\\content\\Scripts\\respond.min.js"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "note:",
+      "version": "If",
+      "purl": "pkg:npm/note:@If",
+      "type": "library",
+      "bom-ref": "pkg:npm/note:@If",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 0.25,
+          "methods": [
+            {
+              "technique": "filename",
+              "confidence": 0.25,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Respond.1.2.0\\content\\Scripts\\respond.min.js"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Respond.1.2.0\\content\\Scripts\\respond.min.js"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "respond.js",
+      "version": "1.2.0:",
+      "purl": "pkg:npm/respond.js@1.2.0:",
+      "type": "library",
+      "bom-ref": "pkg:npm/respond.js@1.2.0:",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 0.25,
+          "methods": [
+            {
+              "technique": "filename",
+              "confidence": 0.25,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Respond.1.2.0\\content\\Scripts\\respond.min.js"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Respond.1.2.0\\content\\Scripts\\respond.min.js"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "jquery-validation-plugin",
+      "version": "1.11.1",
+      "purl": "pkg:npm/jquery-validation-plugin@1.11.1",
+      "type": "library",
+      "bom-ref": "pkg:npm/jquery-validation-plugin@1.11.1",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 0.25,
+          "methods": [
+            {
+              "technique": "filename",
+              "confidence": 0.25,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\jQuery.Validation.1.11.1\\Content\\Scripts\\jquery.validate.min.js"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\jQuery.Validation.1.11.1\\Content\\Scripts\\jquery.validate.min.js"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "jquery",
+      "version": "1.10.2",
+      "purl": "pkg:npm/jquery@1.10.2",
+      "type": "library",
+      "bom-ref": "pkg:npm/jquery@1.10.2",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 0.25,
+          "methods": [
+            {
+              "technique": "filename",
+              "confidence": 0.25,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\jQuery.1.10.2\\Content\\Scripts\\jquery-1.10.2.min.js"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\jQuery.1.10.2\\Content\\Scripts\\jquery-1.10.2.min.js"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "WebGrease",
+      "version": "1.5.2",
+      "description": "Web Grease is a suite of tools for optimizing javascript, css files and images.",
+      "purl": "pkg:nuget/WebGrease@1.5.2",
+      "type": "library",
+      "bom-ref": "pkg:nuget/WebGrease@1.5.2",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 1,
+          "methods": [
+            {
+              "technique": "binary-analysis",
+              "confidence": 1,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\WebGrease.1.5.2\\WebGrease.1.5.2.nupkg"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\WebGrease.1.5.2\\WebGrease.1.5.2.nupkg"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "Respond",
+      "version": "1.2.0",
+      "description": "The goal of this script is to provide a fast and lightweight (3kb minified / 1kb gzipped) script to enable responsive web designs in browsers that don't support CSS3 Media Queries - in particular, Internet Explorer 8 and under. It's written in such a way that it will probably patch support for other non-supporting browsers as well (more information on that soon).",
+      "purl": "pkg:nuget/Respond@1.2.0",
+      "type": "library",
+      "bom-ref": "pkg:nuget/Respond@1.2.0",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 1,
+          "methods": [
+            {
+              "technique": "binary-analysis",
+              "confidence": 1,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Respond.1.2.0\\Respond.1.2.0.nupkg"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Respond.1.2.0\\Respond.1.2.0.nupkg"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "Owin",
+      "version": "1.0",
+      "description": "OWIN IAppBuilder startup interface",
+      "purl": "pkg:nuget/Owin@1.0",
+      "type": "library",
+      "bom-ref": "pkg:nuget/Owin@1.0",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 1,
+          "methods": [
+            {
+              "technique": "binary-analysis",
+              "confidence": 1,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Owin.1.0\\Owin.1.0.nupkg"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Owin.1.0\\Owin.1.0.nupkg"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "Newtonsoft.Json",
+      "version": "5.0.6",
+      "description": "Json.NET is a popular high-performance JSON framework for .NET",
+      "purl": "pkg:nuget/Newtonsoft.Json@5.0.6",
+      "type": "framework",
+      "bom-ref": "pkg:nuget/Newtonsoft.Json@5.0.6",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 1,
+          "methods": [
+            {
+              "technique": "binary-analysis",
+              "confidence": 1,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Newtonsoft.Json.5.0.6\\Newtonsoft.Json.5.0.6.nupkg"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Newtonsoft.Json.5.0.6\\Newtonsoft.Json.5.0.6.nupkg"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "Modernizr",
+      "version": "2.6.2",
+      "description": "Modernizr adds classes to the <html> element which allow you to target specific browser functionality in your stylesheet. You don't actually need to write any Javascript to use it.\n        Modernizr is a small and simple JavaScript library that helps you take advantage of emerging web technologies (CSS3, HTML5) while still maintaining a fine level of control over older browsers that may not yet support these new technologies.\n        NOTE: This package is maintained on behalf of the library owners by the NuGet Community Packages project at http://nugetpackages.codeplex.com/",
+      "purl": "pkg:nuget/Modernizr@2.6.2",
+      "type": "library",
+      "bom-ref": "pkg:nuget/Modernizr@2.6.2",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 1,
+          "methods": [
+            {
+              "technique": "binary-analysis",
+              "confidence": 1,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Modernizr.2.6.2\\Modernizr.2.6.2.nupkg"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Modernizr.2.6.2\\Modernizr.2.6.2.nupkg"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "Microsoft.Web.Infrastructure",
+      "version": "1.0.0.0",
+      "description": "This package contains the Microsoft.Web.Infrastructure assembly that lets you dynamically register HTTP modules at run time.",
+      "purl": "pkg:nuget/Microsoft.Web.Infrastructure@1.0.0.0",
+      "type": "library",
+      "bom-ref": "pkg:nuget/Microsoft.Web.Infrastructure@1.0.0.0",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 1,
+          "methods": [
+            {
+              "technique": "binary-analysis",
+              "confidence": 1,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.Web.Infrastructure.1.0.0.0\\Microsoft.Web.Infrastructure.1.0.0.0.nupkg"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.Web.Infrastructure.1.0.0.0\\Microsoft.Web.Infrastructure.1.0.0.0.nupkg"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "Microsoft.Owin.Security.Twitter",
+      "version": "2.0.0",
+      "description": "Middleware that enables an application to support Twitter's OAuth 2.0 authentication workflow.",
+      "purl": "pkg:nuget/Microsoft.Owin.Security.Twitter@2.0.0",
+      "type": "library",
+      "bom-ref": "pkg:nuget/Microsoft.Owin.Security.Twitter@2.0.0",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 1,
+          "methods": [
+            {
+              "technique": "binary-analysis",
+              "confidence": 1,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.Owin.Security.Twitter.2.0.0\\Microsoft.Owin.Security.Twitter.2.0.0.nupkg"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.Owin.Security.Twitter.2.0.0\\Microsoft.Owin.Security.Twitter.2.0.0.nupkg"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "Microsoft.Owin.Security.OAuth",
+      "version": "2.0.0",
+      "description": "Middleware that enables an application to support any standard OAuth 2.0 authentication workflow.",
+      "purl": "pkg:nuget/Microsoft.Owin.Security.OAuth@2.0.0",
+      "type": "library",
+      "bom-ref": "pkg:nuget/Microsoft.Owin.Security.OAuth@2.0.0",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 1,
+          "methods": [
+            {
+              "technique": "binary-analysis",
+              "confidence": 1,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.Owin.Security.OAuth.2.0.0\\Microsoft.Owin.Security.OAuth.2.0.0.nupkg"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.Owin.Security.OAuth.2.0.0\\Microsoft.Owin.Security.OAuth.2.0.0.nupkg"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "Microsoft.Owin.Security.MicrosoftAccount",
+      "version": "2.0.0",
+      "description": "Middleware that enables an application to support the Microsoft Account authentication workflow.",
+      "purl": "pkg:nuget/Microsoft.Owin.Security.MicrosoftAccount@2.0.0",
+      "type": "library",
+      "bom-ref": "pkg:nuget/Microsoft.Owin.Security.MicrosoftAccount@2.0.0",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 1,
+          "methods": [
+            {
+              "technique": "binary-analysis",
+              "confidence": 1,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.Owin.Security.MicrosoftAccount.2.0.0\\Microsoft.Owin.Security.MicrosoftAccount.2.0.0.nupkg"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.Owin.Security.MicrosoftAccount.2.0.0\\Microsoft.Owin.Security.MicrosoftAccount.2.0.0.nupkg"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "Microsoft.Owin.Security.Google",
+      "version": "2.0.0",
+      "description": "Middleware that enables an application to support Google's OpenId authentication workflow.",
+      "purl": "pkg:nuget/Microsoft.Owin.Security.Google@2.0.0",
+      "type": "library",
+      "bom-ref": "pkg:nuget/Microsoft.Owin.Security.Google@2.0.0",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 1,
+          "methods": [
+            {
+              "technique": "binary-analysis",
+              "confidence": 1,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.Owin.Security.Google.2.0.0\\Microsoft.Owin.Security.Google.2.0.0.nupkg"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.Owin.Security.Google.2.0.0\\Microsoft.Owin.Security.Google.2.0.0.nupkg"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "Microsoft.Owin.Security.Facebook",
+      "version": "2.0.0",
+      "description": "Middleware that enables an application to support Facebook's OAuth 2.0 authentication workflow.",
+      "purl": "pkg:nuget/Microsoft.Owin.Security.Facebook@2.0.0",
+      "type": "library",
+      "bom-ref": "pkg:nuget/Microsoft.Owin.Security.Facebook@2.0.0",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 1,
+          "methods": [
+            {
+              "technique": "binary-analysis",
+              "confidence": 1,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.Owin.Security.Facebook.2.0.0\\Microsoft.Owin.Security.Facebook.2.0.0.nupkg"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.Owin.Security.Facebook.2.0.0\\Microsoft.Owin.Security.Facebook.2.0.0.nupkg"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "Microsoft.Owin.Security.Cookies",
+      "version": "2.0.0",
+      "description": "Middleware that enables an application to use cookie based authentication, similar to ASP.NET's forms authentication.",
+      "purl": "pkg:nuget/Microsoft.Owin.Security.Cookies@2.0.0",
+      "type": "library",
+      "bom-ref": "pkg:nuget/Microsoft.Owin.Security.Cookies@2.0.0",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 1,
+          "methods": [
+            {
+              "technique": "binary-analysis",
+              "confidence": 1,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.Owin.Security.Cookies.2.0.0\\Microsoft.Owin.Security.Cookies.2.0.0.nupkg"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.Owin.Security.Cookies.2.0.0\\Microsoft.Owin.Security.Cookies.2.0.0.nupkg"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "Microsoft.Owin.Security",
+      "version": "2.0.0",
+      "description": "Common types which are shared by the various authentication middleware components.",
+      "purl": "pkg:nuget/Microsoft.Owin.Security@2.0.0",
+      "type": "library",
+      "bom-ref": "pkg:nuget/Microsoft.Owin.Security@2.0.0",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 1,
+          "methods": [
+            {
+              "technique": "binary-analysis",
+              "confidence": 1,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.Owin.Security.2.0.0\\Microsoft.Owin.Security.2.0.0.nupkg"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.Owin.Security.2.0.0\\Microsoft.Owin.Security.2.0.0.nupkg"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "Microsoft.Owin.Host.SystemWeb",
+      "version": "2.0.0",
+      "description": "OWIN server that enables OWIN-based applications to run on IIS using the ASP.NET request pipeline.",
+      "purl": "pkg:nuget/Microsoft.Owin.Host.SystemWeb@2.0.0",
+      "type": "library",
+      "bom-ref": "pkg:nuget/Microsoft.Owin.Host.SystemWeb@2.0.0",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 1,
+          "methods": [
+            {
+              "technique": "binary-analysis",
+              "confidence": 1,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.Owin.Host.SystemWeb.2.0.0\\Microsoft.Owin.Host.SystemWeb.2.0.0.nupkg"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.Owin.Host.SystemWeb.2.0.0\\Microsoft.Owin.Host.SystemWeb.2.0.0.nupkg"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "Microsoft.Owin",
+      "version": "2.0.0",
+      "description": "Provides a set of helper types and abstractions for simplifying the creation of OWIN components.",
+      "purl": "pkg:nuget/Microsoft.Owin@2.0.0",
+      "type": "library",
+      "bom-ref": "pkg:nuget/Microsoft.Owin@2.0.0",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 1,
+          "methods": [
+            {
+              "technique": "binary-analysis",
+              "confidence": 1,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.Owin.2.0.0\\Microsoft.Owin.2.0.0.nupkg"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.Owin.2.0.0\\Microsoft.Owin.2.0.0.nupkg"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "Microsoft.jQuery.Unobtrusive.Validation",
+      "version": "3.0.0",
+      "description": "jQuery plugin that unobtrusively sets up jQuery.Validation.",
+      "purl": "pkg:nuget/Microsoft.jQuery.Unobtrusive.Validation@3.0.0",
+      "type": "library",
+      "bom-ref": "pkg:nuget/Microsoft.jQuery.Unobtrusive.Validation@3.0.0",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 1,
+          "methods": [
+            {
+              "technique": "binary-analysis",
+              "confidence": 1,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.jQuery.Unobtrusive.Validation.3.0.0\\Microsoft.jQuery.Unobtrusive.Validation.3.0.0.nupkg"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.jQuery.Unobtrusive.Validation.3.0.0\\Microsoft.jQuery.Unobtrusive.Validation.3.0.0.nupkg"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "Microsoft.AspNet.WebPages",
+      "version": "3.0.0",
+      "description": "This package contains core runtime assemblies shared between ASP.NET MVC and ASP.NET Web Pages.",
+      "purl": "pkg:nuget/Microsoft.AspNet.WebPages@3.0.0",
+      "type": "library",
+      "bom-ref": "pkg:nuget/Microsoft.AspNet.WebPages@3.0.0",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 1,
+          "methods": [
+            {
+              "technique": "binary-analysis",
+              "confidence": 1,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.AspNet.WebPages.3.0.0\\Microsoft.AspNet.WebPages.3.0.0.nupkg"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.AspNet.WebPages.3.0.0\\Microsoft.AspNet.WebPages.3.0.0.nupkg"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "Microsoft.AspNet.Web.Optimization",
+      "version": "1.1.1",
+      "description": "ASP.NET Optimization introduces a way to bundle and optimize CSS and JavaScript files.",
+      "purl": "pkg:nuget/Microsoft.AspNet.Web.Optimization@1.1.1",
+      "type": "library",
+      "bom-ref": "pkg:nuget/Microsoft.AspNet.Web.Optimization@1.1.1",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 1,
+          "methods": [
+            {
+              "technique": "binary-analysis",
+              "confidence": 1,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.AspNet.Web.Optimization.1.1.1\\Microsoft.AspNet.Web.Optimization.1.1.1.nupkg"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.AspNet.Web.Optimization.1.1.1\\Microsoft.AspNet.Web.Optimization.1.1.1.nupkg"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "Microsoft.AspNet.Razor",
+      "version": "3.0.0",
+      "description": "This package contains the runtime assemblies for ASP.NET Web Pages. ASP.NET Web Pages and the new Razor syntax provide a fast, terse, clean and lightweight way to combine server code with HTML to create dynamic web content.",
+      "purl": "pkg:nuget/Microsoft.AspNet.Razor@3.0.0",
+      "type": "library",
+      "bom-ref": "pkg:nuget/Microsoft.AspNet.Razor@3.0.0",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 1,
+          "methods": [
+            {
+              "technique": "binary-analysis",
+              "confidence": 1,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.AspNet.Razor.3.0.0\\Microsoft.AspNet.Razor.3.0.0.nupkg"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.AspNet.Razor.3.0.0\\Microsoft.AspNet.Razor.3.0.0.nupkg"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "Microsoft.AspNet.Mvc",
+      "version": "5.0.0",
+      "description": "This package contains the runtime assemblies for ASP.NET MVC. ASP.NET MVC gives you a powerful, patterns-based way to build dynamic websites that enables a clean separation of concerns and that gives you full control over markup.",
+      "purl": "pkg:nuget/Microsoft.AspNet.Mvc@5.0.0",
+      "type": "library",
+      "bom-ref": "pkg:nuget/Microsoft.AspNet.Mvc@5.0.0",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 1,
+          "methods": [
+            {
+              "technique": "binary-analysis",
+              "confidence": 1,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.AspNet.Mvc.5.0.0\\Microsoft.AspNet.Mvc.5.0.0.nupkg"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.AspNet.Mvc.5.0.0\\Microsoft.AspNet.Mvc.5.0.0.nupkg"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "Microsoft.AspNet.Identity.Owin",
+      "version": "1.0.0",
+      "description": "Owin implementation for ASP.NET Identity.",
+      "purl": "pkg:nuget/Microsoft.AspNet.Identity.Owin@1.0.0",
+      "type": "library",
+      "bom-ref": "pkg:nuget/Microsoft.AspNet.Identity.Owin@1.0.0",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 1,
+          "methods": [
+            {
+              "technique": "binary-analysis",
+              "confidence": 1,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.AspNet.Identity.Owin.1.0.0\\Microsoft.AspNet.Identity.Owin.1.0.0.nupkg"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.AspNet.Identity.Owin.1.0.0\\Microsoft.AspNet.Identity.Owin.1.0.0.nupkg"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "Microsoft.AspNet.Identity.EntityFramework",
+      "version": "1.0.0",
+      "description": "ASP.NET Identity providers that use Entity Framework.",
+      "purl": "pkg:nuget/Microsoft.AspNet.Identity.EntityFramework@1.0.0",
+      "type": "framework",
+      "bom-ref": "pkg:nuget/Microsoft.AspNet.Identity.EntityFramework@1.0.0",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 1,
+          "methods": [
+            {
+              "technique": "binary-analysis",
+              "confidence": 1,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.AspNet.Identity.EntityFramework.1.0.0\\Microsoft.AspNet.Identity.EntityFramework.1.0.0.nupkg"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.AspNet.Identity.EntityFramework.1.0.0\\Microsoft.AspNet.Identity.EntityFramework.1.0.0.nupkg"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "Microsoft.AspNet.Identity.Core",
+      "version": "1.0.0",
+      "description": "Core interfaces for ASP.NET Identity.",
+      "purl": "pkg:nuget/Microsoft.AspNet.Identity.Core@1.0.0",
+      "type": "library",
+      "bom-ref": "pkg:nuget/Microsoft.AspNet.Identity.Core@1.0.0",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 1,
+          "methods": [
+            {
+              "technique": "binary-analysis",
+              "confidence": 1,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.AspNet.Identity.Core.1.0.0\\Microsoft.AspNet.Identity.Core.1.0.0.nupkg"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Microsoft.AspNet.Identity.Core.1.0.0\\Microsoft.AspNet.Identity.Core.1.0.0.nupkg"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "jQuery.Validation",
+      "version": "1.11.1",
+      "description": "This jQuery plugin makes simple clientside form validation trivial, while offering lots of option for customization. That makes a good choice if you’re building something new from scratch, but also when you’re trying to integrate it into an existing application with lots of existing markup. The plugin comes bundled with a useful set of validation methods, including URL and email validation, while providing an API to write your own methods. All bundled methods come with default error messages in english and translations into 32 languages.\n    NOTE: This package is maintained on behalf of the library owners by the NuGet Community Packages project at http://nugetpackages.codeplex.com/",
+      "purl": "pkg:nuget/jQuery.Validation@1.11.1",
+      "type": "library",
+      "bom-ref": "pkg:nuget/jQuery.Validation@1.11.1",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 1,
+          "methods": [
+            {
+              "technique": "binary-analysis",
+              "confidence": 1,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\jQuery.Validation.1.11.1\\jQuery.Validation.1.11.1.nupkg"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\jQuery.Validation.1.11.1\\jQuery.Validation.1.11.1.nupkg"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "jQuery",
+      "version": "1.10.2",
+      "description": "jQuery is a new kind of JavaScript Library.\n        jQuery is a fast and concise JavaScript Library that simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development. jQuery is designed to change the way that you write JavaScript.\n        NOTE: This package is maintained on behalf of the library owners by the NuGet Community Packages project at http://nugetpackages.codeplex.com/",
+      "purl": "pkg:nuget/jQuery@1.10.2",
+      "type": "library",
+      "bom-ref": "pkg:nuget/jQuery@1.10.2",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 1,
+          "methods": [
+            {
+              "technique": "binary-analysis",
+              "confidence": 1,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\jQuery.1.10.2\\jQuery.1.10.2.nupkg"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\jQuery.1.10.2\\jQuery.1.10.2.nupkg"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "EntityFramework",
+      "version": "6.0.0",
+      "description": "Entity Framework is Microsoft's recommended data access technology for new applications.",
+      "purl": "pkg:nuget/EntityFramework@6.0.0",
+      "type": "framework",
+      "bom-ref": "pkg:nuget/EntityFramework@6.0.0",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 1,
+          "methods": [
+            {
+              "technique": "binary-analysis",
+              "confidence": 1,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\EntityFramework.6.0.0\\EntityFramework.6.0.0.nupkg"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\EntityFramework.6.0.0\\EntityFramework.6.0.0.nupkg"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "bootstrap",
+      "version": "3.0.0",
+      "description": "Sleek, intuitive, and powerful front-end framework for faster and easier web development.",
+      "purl": "pkg:nuget/bootstrap@3.0.0",
+      "type": "framework",
+      "bom-ref": "pkg:nuget/bootstrap@3.0.0",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 1,
+          "methods": [
+            {
+              "technique": "binary-analysis",
+              "confidence": 1,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\bootstrap.3.0.0\\bootstrap.3.0.0.nupkg"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\bootstrap.3.0.0\\bootstrap.3.0.0.nupkg"
+        }
+      ]
+    },
+    {
+      "group": "",
+      "name": "Antlr",
+      "version": "3.4.1.9004",
+      "description": "ANother Tool for Language Recognition, is a language tool that provides a framework for constructing recognizers, interpreters, compilers, and translators from grammatical descriptions containing actions in a variety of target languages.",
+      "purl": "pkg:nuget/Antlr@3.4.1.9004",
+      "type": "framework",
+      "bom-ref": "pkg:nuget/Antlr@3.4.1.9004",
+      "evidence": {
+        "identity": {
+          "field": "purl",
+          "confidence": 1,
+          "methods": [
+            {
+              "technique": "binary-analysis",
+              "confidence": 1,
+              "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Antlr.3.4.1.9004\\Antlr.3.4.1.9004.nupkg"
+            }
+          ]
+        }
+      },
+      "properties": [
+        {
+          "name": "SrcFile",
+          "value": "C:\\Users\\admin\\Downloads\\Online-Survey-System-master\\Online-Survey-System-master\\packages\\Antlr.3.4.1.9004\\Antlr.3.4.1.9004.nupkg"
+        }
+      ]
+    }
+  ],
+  "services": [],
+  "dependencies": []
+}
